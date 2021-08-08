@@ -1,5 +1,7 @@
 # Projects
 
+Wolt-Ish application
+
 I had difficulties running it using the jar files but it works good at my computer.
 Sorry for the mess.
 
